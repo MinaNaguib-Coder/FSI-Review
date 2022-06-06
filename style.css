@@ -1,0 +1,18 @@
+/* add code here to make your image 300px tall, have a border-radius of 25px, and a 1px black solid border.*/
+img {
+  height: 300px;
+  width: auto;
+  border-radius:25px;
+  border: black 1px solid;
+}
+
+/* add code here to change the color and font family of your band's name/title */
+h1 {
+  color: blue;
+  font-family: "Roboto";
+}
+
+/* Bonus: change the color of your list elements */
+li {
+  color: red;
+}
